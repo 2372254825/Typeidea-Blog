@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60216701-676b-4f98-ac66-43da592f0084" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BlogTypeidea" />
+  </component>
+  <component name="ProjectId" id="1VQFUy8AwOwLHN1ri6GwCE29eHn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/typeidea/typeidea/themes/default/templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Pycharm\typeidea\typeidea\typeidea\themes\default\templates" />
+      <recent name="E:\Pycharm\typeidea\typeidea\typeidea\themes\default" />
+      <recent name="E:\Pycharm\typeidea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Pycharm\typeidea\typeidea\typeidea\themes\bootstrap\templates\config" />
+      <recent name="E:\Pycharm\typeidea\typeidea\typeidea\themes\bootstrap\templates\blog" />
+      <recent name="E:\Pycharm\typeidea\typeidea\typeidea\themes\bootstrap\templates" />
+      <recent name="E:\Pycharm\typeidea\typeidea\typeidea\themes\bootstrap" />
+      <recent name="E:\Pycharm\typeidea\typeidea\typeidea\themes\default" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.views (1)">
+    <configuration name="custom_site" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="typeidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/typeidea" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\Pycharm\typeidea\typeidea\typeidea\custom_site.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="typeidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/typeidea" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/typeidea/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="typeidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/typeidea/bolg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/typeidea/bolg/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="typeidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/typeidea/blog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/typeidea/blog/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="typeidea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/typeidea/bolg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/typeidea/bolg/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.custom_site" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60216701-676b-4f98-ac66-43da592f0084" name="Default Changelist" comment="" />
+      <created>1577177431409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577177431409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577437080807">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="299" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1577437080807" />
+    <state x="416" y="366" key="FileChooserDialogImpl" timestamp="1577365929943">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="416" y="366" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1577365929943" />
+    <state width="1254" height="144" key="GridCell.Tab.0.bottom" timestamp="1578211587088">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1254" height="144" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1578211587088" />
+    <state width="1254" height="144" key="GridCell.Tab.0.center" timestamp="1578211587088">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1254" height="144" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1578211587088" />
+    <state width="1254" height="144" key="GridCell.Tab.0.left" timestamp="1578211587088">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1254" height="144" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1578211587088" />
+    <state width="1254" height="144" key="GridCell.Tab.0.right" timestamp="1578211587088">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1254" height="144" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1578211587088" />
+    <state x="20" y="83" key="SettingsEditor" timestamp="1578303110778">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="20" y="83" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1578303110778" />
+    <state x="0" y="121" key="scopes" timestamp="1577262178910">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="0" y="121" key="scopes/0.0.1280.984@0.0.1280.984" timestamp="1577262178910" />
+    <state x="218" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1578056642912">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="218" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1578056642912" />
+  </component>
+</project>
